@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Derleme çıktıları
+out/
+target/
+build/
+*.class
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Java hata günlükleri
+hs_err_pid*
+replay_pid*
